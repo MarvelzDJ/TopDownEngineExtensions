@@ -9,11 +9,17 @@ These scripts allow you to add dynamic, procedural animations to a selected bone
 
 ## Preview
 
-**DISABLED**
+**DISABLED:** Only weapon animation - body unaffected
 
 https://github.com/user-attachments/assets/509f83cb-ef9b-46a2-abaa-2911742c3b06
 
-**ENABLED**
+**ENABLED:** Spine bone gets rotated so the character is affected by the recoil impact
 
 https://github.com/user-attachments/assets/cecc85ed-236a-4af5-a32c-5fe4d3cfc5ac
+
+**ENABLED (Extreme Values for better visualization)**:
+
+https://github.com/user-attachments/assets/916ab815-dc51-41b9-aaab-a808a8206e2f
+
+
 
